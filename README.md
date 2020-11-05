@@ -1,24 +1,21 @@
 # styleguide-generator-tool
 
-## Project setup
-```
-npm install
-```
+A tool to generate some style guide documentation.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Using [Google Fonts]()
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Vue Cli 3
 
-### Lints and fixes files
-```
-npm run lint
-```
+    npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    npm run serve
+
+Compiles and minify for production:
+
+    npm run build
+
+Lints and fixes files
+
+    npm run lint
+
+Customize configuration: See [Configuration Reference](https://cli.vuejs.org/config/).
