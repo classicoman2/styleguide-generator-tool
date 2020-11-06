@@ -1,19 +1,19 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 
-import HelloWorld from '../components/HelloWorld.vue'
+import PantallaVista from '../components/PantallaVista.vue'
 
 const routes = [
   //xtoni
   {
     path: '/preview',
     name: 'Preview',
-    component: HelloWorld
+    component: PantallaVista,
   },
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
   },
   {
     path: '/about',
